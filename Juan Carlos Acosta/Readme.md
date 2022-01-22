@@ -48,6 +48,5 @@ Puedes seguir mi playlist de spotify: <https://open.spotify.com/playlist/7asiGeG
 
 También me gustan mucho los carros, me gustan muchas marcas y modelos, pero uno de mis favoritos es: 
 
-![](![image](https://user-images.githubusercontent.com/65261708/150643222-3c235468-e9d0-45cd-af1c-2cd8abaea368.png))
-
+![](https://commonmark.org/help/images/favicon.png)
 
