@@ -6,7 +6,7 @@
 
 1. __Ingeniería de sistemas__
 2. *__Séptimo semestre__*
-3. <https://www.escuelaing.edu.co/es/>
+3. <https://www.escuelaing.edu.co/es/programas/ingenieria-de-sistemas/>
 
 ```
 for i in range(5):
