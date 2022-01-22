@@ -23,3 +23,31 @@ Entrené baloncesto también, aproximadamente dos años, estuve en un equipo y n
 ### Tenis de mesa
 
 Fui a entrenamientos de tenis de mesa por aproximadamente 6 meses. 
+
+# Música
+
+Escucho distintos géneros, por ejemplo: 
+
+* Rock
+* Hiphop
+* Pop
+* Reggaeton
+* Indie
+
+Sin embargo, mi género preferido es el hiphop, mi top de artistas del género es:
+
+1. Kanye West
+2. Kendrick Lamar
+3. J Cole
+4. Drake
+5. Mac Miller
+
+Puedes seguir mi playlist de spotify: <https://open.spotify.com/playlist/7asiGeGtO9XehpCN5a0DCg?si=-az4a-wTTeqjE_4SG7--0A>
+
+# Carros
+
+También me gustan mucho los carros, me gustan muchas marcas y modelos, pero uno de mis favoritos es: 
+
+![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.motor.com.co%2Factualidad%2Flanzamientos%2Fporsche-911-turbo-2021-lanzamiento-mundial%2F34517&psig=AOvVaw2IfVe3rEsaWNaTZfGthY6D&ust=1642948869476000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCLiIn_TLxfUCFQAAAAAdAAAAABAD)
+
+
