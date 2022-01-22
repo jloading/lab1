@@ -50,4 +50,9 @@ También me gustan mucho los carros, me gustan muchas marcas y modelos, pero uno
 
 ![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.motor.com.co%2Factualidad%2Flanzamientos%2Fporsche-911-turbo-2021-lanzamiento-mundial%2F34517&psig=AOvVaw2IfVe3rEsaWNaTZfGthY6D&ust=1642948869476000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCLiIn_TLxfUCFQAAAAAdAAAAABAD)
 
+# Código
 
+Adjunto el primer código que escribí: 
+```
+print("Hola mundo")
+```
