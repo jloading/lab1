@@ -48,6 +48,6 @@ Puedes seguir mi playlist de spotify: <https://open.spotify.com/playlist/7asiGeG
 
 También me gustan mucho los carros, me gustan muchas marcas y modelos, pero uno de mis favoritos es: 
 
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.motor.com.co%2Factualidad%2Flanzamientos%2Fporsche-911-turbo-2021-lanzamiento-mundial%2F34517&psig=AOvVaw2IfVe3rEsaWNaTZfGthY6D&ust=1642948869476000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCLiIn_TLxfUCFQAAAAAdAAAAABAD)
+![](![image](https://user-images.githubusercontent.com/65261708/150643222-3c235468-e9d0-45cd-af1c-2cd8abaea368.png))
 
 
