@@ -1,7 +1,6 @@
 # Santiago Bayona
 - *20 años*
 ### Datos programa:
-\
 ![]
 (https://gestorpasswd.escuelaing.edu.co/assets/content/img/imgCliente/escuela/banner.png)
 
