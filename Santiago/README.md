@@ -1,8 +1,8 @@
 # Santiago Bayona
 - *20 años*
 ### Datos programa:
-![]
-(https://gestorpasswd.escuelaing.edu.co/assets/content/img/imgCliente/escuela/banner.png)
+\
+![] (https://gestorpasswd.escuelaing.edu.co/assets/content/img/imgCliente/escuela/banner.png)
 
 1. __Ingeniería de sistemas__
 2. *__Séptimo semestre__*
