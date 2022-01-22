@@ -3,7 +3,6 @@
 ### Datos programa:
 \
 ![]
-
 (https://gestorpasswd.escuelaing.edu.co/assets/content/img/imgCliente/escuela/banner.png)
 
 1. __Ingeniería de sistemas__
