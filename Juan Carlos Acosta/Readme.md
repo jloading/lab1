@@ -50,7 +50,10 @@ También me gustan mucho los carros, me gustan muchas marcas y modelos, pero uno
 
 ![](https://www.motor.com.co/files/article_main/files/crop/uploads/2020/07/16/5f10b965066d0.r_1594932099799.252-250-1729-989.jpeg)
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 83babf488534681dfa0081cf6cca7099c1ffd416
 # Código
 
 Adjunto el primer código que escribí: 
